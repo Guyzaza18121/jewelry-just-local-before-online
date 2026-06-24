@@ -19,6 +19,17 @@
 
 ---
 
+## Screenshots
+
+![Dashboard](./screenshot/gam1.png)
+![Products](./screenshot/gam2.png)
+![Sell](./screenshot/gam3.png)
+![History](./screenshot/gam4.png)
+![Reports](./screenshot/gam5.png)
+![Settings](./screenshot/gam6.png)
+
+---
+
 ## เทคโนโลยี
 
 ### Frontend
